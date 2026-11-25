@@ -1,0 +1,17 @@
+{
+  "name": "Coach Anglais",
+  "short_name": "Coach EN",
+  "description": "Votre coach d'anglais personnel : test de niveau, planning et séances quotidiennes.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fb",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
